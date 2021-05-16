@@ -1,0 +1,10 @@
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\bin\Release\currency_convertor.exe.config
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\bin\Release\currency_convertor.exe
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\bin\Release\currency_convertor.pdb
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.Form1.resources
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.Properties.Resources.resources
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.exe
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.pdb
+C:\Users\deniz\source\repos\currency_convertor\currency_convertor\obj\Release\currency_convertor.csprojAssemblyReference.cache
